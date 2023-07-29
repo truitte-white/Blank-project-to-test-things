@@ -1,2 +1,1 @@
-# SDET-AUTOMATION-CAPSTONE
-Capstone automation project for the SDET academy
+# Blank Project to test things out
